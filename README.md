@@ -106,7 +106,7 @@ Identifying and addressing these gaps at the source is key to reducing returns e
 ---
 
 ## 📌 Live Dashboard  
-🔗 View Interactive Dashboard: [(https://app.powerbi.com/view?r=eyJrIjoiNThhZjgzZmYtMjg2ZS00ZmIzLWIwOWYtYzJmMzhiNGYyNjI5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)]
+🔗 [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNThhZjgzZmYtMjg2ZS00ZmIzLWIwOWYtYzJmMzhiNGYyNjI5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ---
 
 ## 🤝 Connect With Me  
